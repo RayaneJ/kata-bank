@@ -1,0 +1,9 @@
+D:\ws\bankaccount\kata-bank\src\main\java\model\Account.java
+D:\ws\bankaccount\kata-bank\src\main\java\Exceptions\NegativeInitialBalanceException.java
+D:\ws\bankaccount\kata-bank\src\main\java\Exceptions\IllegalAmountException.java
+D:\ws\bankaccount\kata-bank\src\main\java\services\AccountService.java
+D:\ws\bankaccount\kata-bank\src\main\java\Exceptions\NegativeAmountException.java
+D:\ws\bankaccount\kata-bank\src\main\java\model\Statement.java
+D:\ws\bankaccount\kata-bank\src\main\java\services\AccountServiceImpl.java
+D:\ws\bankaccount\kata-bank\src\main\java\Exceptions\AccountNotFoundException.java
+D:\ws\bankaccount\kata-bank\src\main\java\model\Operation.java
